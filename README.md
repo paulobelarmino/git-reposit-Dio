@@ -15,5 +15,5 @@
 
 
 #### Este documento está fazendo uso de Markdown para a formatação
-##### Maiores informações: [Página do Markdown - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+##### Maiores informações: (<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Página do Markdown - Basic Syntax</a>)
 
